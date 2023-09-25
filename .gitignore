@@ -1,0 +1,5 @@
+venv
+.idead
+*.pyc
+__trash__
+__pycache__
